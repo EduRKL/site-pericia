@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eduardolima-pericia.netlify.app/sitemap.xml
